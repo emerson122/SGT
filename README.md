@@ -17,6 +17,6 @@ se debe cambiar el codigo de  `{{MongoUri}}` en el archivo que se encuenta en `b
 
 ### Intalacion 
 
-ejecutar `npm install ` en la carpeta de `backend` y
+ejecutar `npm install ` en la carpeta de `backend` 
 
-y el comando `npm start` and `npm run backend`
+ejecutar el comando `npm start` and `npm run backend`
