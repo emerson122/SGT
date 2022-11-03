@@ -1,5 +1,5 @@
 ## Sistema de Demostracion con conexion entre react a una API 
-Sistema de inicio de sesión desarrollado en React Bootstrap para el Frontend y NodeJS en su Backend.
+Sistema de inicio de sesión desarrollado en React Bootstrap en el Frontend y NodeJS en su Backend.
 
 
 
